@@ -43,7 +43,7 @@ cacheSolve <- function(x, ...) {
     i
 }
 
-## The following test code showed that the two functions given above is working
+## The following test code shows that the two functions given above is working
 ## fine.
 test = function() {
     m = matrix(rnorm(1000000), 1000, 1000)
